@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C-P-RAJPOOT
-- 👀 I’m interested in data structure and algoritham and game developing
-- 🌱 I’m currently learning ...c,c++,data structure
+- 👀 I’m interested in data structure and algoritham 
+- 🌱 I’m  learn...c,c++,java, html,css,data structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail-chandrapalrajput484@gmail.com,fb-https://www.facebook.com/profile.php?id=100046774401925
 -   i am more intreasted in yoga and meditation
